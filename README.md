@@ -1,4 +1,4 @@
-# shadowsocks-v2ray-plugin
+# shadowsocks
 
 ### Darak
 
